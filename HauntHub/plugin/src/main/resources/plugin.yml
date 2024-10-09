@@ -1,0 +1,19 @@
+# Плагин принадлежит разработку с игровым никнеймом NaulbiMIX.
+#
+# Контактные данные разработчика:
+# ВКонтакте - https://vk.com/evildonat https://vk.com/evil_donat https://vk.com/naulbirtl
+# Телеграм - https://t.me/naulbimix
+# Сайт - https://naulbimix.ru/
+#
+# Разработано специально для проекта HauntMC Network - https://vk.com/hauntmc | mc.hauntmc.ru
+#
+# Предварительная оценка плагина по меркам знаний разработчика: 4.5/10
+#
+# Релиз не для продажи. Авторские права согласно ГК РФ Глава 70 Статья 1255 принадлежат официальному разработчику, не проекту.
+# По любым вопросам использования взаимодействия с разработкой обращайтесь по контактам автора.
+name: HubCorePlugin
+version: 1.0
+main: hauntmc.HubCorePlugin.Main
+author: NaulbiMIX
+description: То что хотя бы работает...
+website: hauntmc.ru

@@ -1,0 +1,6 @@
+name: HauntCore
+version: ${project.version}
+main: hauntmc.HauntCore.Main
+authors: [NaulbiMIX]
+description: Что-то, что работает...
+website: https://t.me/naulbimix
